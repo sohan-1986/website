@@ -232,7 +232,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1rem;
+  font-size: .5rem;
   color: white;
   text-decoration: none;
 }
@@ -297,9 +297,6 @@ h1 {
     width: 95%;
     font-size: 0.5rem;
   }
-  .links a {
-  font-size: .5rem;
-}
 .links a img {
   width: 20px;
   margin: 0 5px;
